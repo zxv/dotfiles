@@ -1,0 +1,7 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =5
+let g:netrw_dirhist_1='/mnt/staging/staging/barefootinteractive.ca/wrtmc/modules/user_cell/controllers/Event'
+let g:netrw_dirhist_2='/mnt/staging/staging/barefootinteractive.ca/wrtmc/modules/user_cell/views/scripts/member'
+let g:netrw_dirhist_3='/mnt/staging/staging/barefootinteractive.ca/wrtmc/modules/user_cell/views/scripts/event/listing'
+let g:netrw_dirhist_4='/home/ste/d/codeguy-Slim-1.5.1.4-3-ge3d59c1'
+let g:netrw_dirhist_5='/mnt/staging/staging/barefootinteractive.ca/proposals/bfcms/global/layouts/admin'
