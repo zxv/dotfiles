@@ -3,7 +3,7 @@ map ,w :w<CR>
 
 " Misc
 call pathogen#infect()
-set directory=~/.vim/swap,. " Swap file behavior. Check home swap dir, then current directory
+"set directory=~/.vim/swap,. " Swap file behavior. Check home swap dir, then current directory
 filetype plugin indent on
 set matchpairs+=<:>
 set clipboard=unnamedplus,autoselect " Use + register (X Window clipboard) as unnamed register
@@ -36,10 +36,10 @@ syntax on
 colorscheme wombat256
 
 " Persistent undo
-set undodir=~/.vim/undodir
-set undofile
-set undolevels=1000 "maximum number of changes that can be undone
-set undoreload=10000 "maximum number lines to save for undo on a buffer reload
+"set undodir=~/.vim/undodir
+"set undofile
+"set undolevels=1000 "maximum number of changes that can be undone
+"set undoreload=10000 "maximum number lines to save for undo on a buffer reload
 
 " ETC "
 nnoremap ,jc :JumpToCSS<CR>
