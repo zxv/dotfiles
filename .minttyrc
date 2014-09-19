@@ -1,0 +1,11 @@
+BoldAsFont=no
+Transparency=off
+CursorType=block
+CursorBlinks=no
+Font=Consolas
+CopyAsRTF=no
+Columns=236
+Rows=69
+Locale=en_US
+Charset=UTF-8
+Term=screen-256color
